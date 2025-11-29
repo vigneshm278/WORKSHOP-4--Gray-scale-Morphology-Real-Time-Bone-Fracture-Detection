@@ -62,3 +62,13 @@ else:
 ~~~
 
 # output:
+
+
+
+<img width="943" height="345" alt="image" src="https://github.com/user-attachments/assets/a3c6e1e1-6eff-4d84-aa77-715038073a94" />
+
+
+
+# Result: 
+
+Thus , the Gray-scale-Morphology-Real-Time-Bone-Fracture-Detection are Succesfully detection.
